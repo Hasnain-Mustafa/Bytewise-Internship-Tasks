@@ -11,3 +11,7 @@ All the tasks done during Bytewise Fellowship/Internship
 | [Bytewise Task 4 Flexbox](https://github.com/Hasnain-Mustafa/Bytewise-Internship-Tasks/tree/main/Bytewise%20Task%204%20Flexbox) | |
 | [Bytewise Task 5 Sass](https://github.com/Hasnain-Mustafa/Bytewise-Internship-Tasks/tree/main/Bytewise%20Task%205%20Sass) | |
 | [Bytewise Task 6 Tailwind CSS](https://github.com/Hasnain-Mustafa/Bytewise-Internship-Tasks/tree/main/Bytewise%20Task%206%20Tailwind%20CSS) | [Website](https://pricing-cards-tailwind.netlify.app/) |
+| [Bytewise Task 7 JavaScript Fundamentals](https://github.com/Hasnain-Mustafa/Bytewise-Internship-Tasks/tree/main/ByteWise%20Task%207%20JavaScript%20Fundamentals) | |
+| [Bytewise Task 8 Asynchronous JavaScript](https://github.com/Hasnain-Mustafa/Bytewise-Internship-Tasks/tree/main/ByteWise%20Task%208%20Asynchronous%20JavaScript) | |
+| [Bytewise Task 9 JavaScript DOM ](https://github.com/Hasnain-Mustafa/Bytewise-Internship-Tasks/tree/main/ByteWise%20Task%209%20JavaScript%20DOM) | |
+| [Bytewise Task 6 Tailwind CSS](https://github.com/Hasnain-Mustafa/Bytewise-Internship-Tasks/tree/main/ByteWise%20Task%2010%20TODO%20List%20App) | [Website](https://app-todo-demo-js.netlify.app/) |
